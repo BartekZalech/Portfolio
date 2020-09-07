@@ -1,0 +1,18 @@
+{
+  "message": "hello i18n !!",
+  "company": "I'm proud to have collaborated with some awesome companies:",
+  "aboutme": {
+     "text1": "Hello there, I'm web developer from Poland – a country of people fascinated by life.",
+     "text2": "Have you ever been thinking of helping your businesses do better online?",
+     "text3": "That is great! Scroll down and see what I can do for you."
+  },
+  "skills": "Skills",
+  "showcase": "Showcase",
+  
+  "cta": {
+    "text1": "Do You need superb website?",
+    "text2": "Feel free to",
+    "text3": "me",
+    "contact": "contact"
+  }
+}

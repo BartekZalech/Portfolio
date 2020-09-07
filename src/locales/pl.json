@@ -1,0 +1,17 @@
+{
+  "message": "witam i18n !!",
+  "company": "Jestem dumny ze współpracy z niesamowitymi firmami:",
+  "aboutme": {
+     "text1": "Witam na mojej stronie.",
+     "text2": "Potrzebujesz WWW na najwyższym poziomie?",
+     "text3": "Zjedź na dół i zobacz co mogę dla Ciebie zrobić!"
+  },
+  "skills": "Umiejętności",
+  "showcase": "Portfolio",
+  "cta": {
+    "text1": "Potrzebujesz nieszablonowej strony?",
+    "text2": "Zapraszam do ",
+    "text3": "ze mną",
+    "contact": "kontaktu"
+  }
+}
