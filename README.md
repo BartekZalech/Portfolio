@@ -1,4 +1,5 @@
-# portfolio_vue
+# Vue Js portfolio 2020
+
 
 ## Project setup
 ```
